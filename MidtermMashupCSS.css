@@ -1,0 +1,64 @@
+html {
+	background-color:white;
+}
+
+body{
+	width:80%;
+    margin:auto;
+    padding:10px;
+    color:#000;
+    background:#A0B7C9;
+}
+
+h1#title {
+	font-size:50px;
+	text-align:center;
+	width:70%;
+	text-decoration:underline;
+	float:left;
+	letter-spacing:5px;
+}
+
+#title_image_1{
+	float:right;
+}
+
+#info {
+	clear:both;
+	padding-top:40px;
+}
+
+/*.info ol {
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+
+info li {
+    display:inline;
+    margin:0;
+    padding:0;
+}
+*/
+
+.results {
+    /*height:2;*/
+    background:#DD0;
+}
+
+#footer {
+    clear:both;
+	font-size:12px;
+	text-align: center;
+    border-top:thick #000033;
+    margin:50px 0px 5px 0px; 
+}
+
+#map{
+	float:right;
+}
+
+img{
+	border-style:solid;
+	border-width:1px;
+}
